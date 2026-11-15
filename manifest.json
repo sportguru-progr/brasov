@@ -1,0 +1,15 @@
+{
+  "id": "/brasov/",
+  "name": "Program SportGuru Brașov",
+  "short_name": "Program Brașov",
+  "start_url": "/brasov/",
+  "scope": "/brasov/",
+  "display": "standalone",
+  "background_color": "#5b0098",
+  "theme_color": "#5b0098",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
